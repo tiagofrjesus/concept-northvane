@@ -1,0 +1,339 @@
+{
+  "tagline": "Integrated systems for complex environments",
+  "heroSub": "Northvane provides advanced sensing, autonomy, and secure communications architecture to support NATO and European Union defence and aerospace requirements.",
+  "stats": [
+    {
+      "value": "1,400",
+      "unit": "",
+      "label": "engineers and specialists"
+    },
+    {
+      "value": "3",
+      "unit": "",
+      "label": "engineering centres"
+    },
+    {
+      "value": "12",
+      "unit": "",
+      "label": "allied nations served"
+    },
+    {
+      "value": "17",
+      "unit": "yrs",
+      "label": "of in-service support"
+    }
+  ],
+  "intro": {
+    "heading": "Precision engineering for modern operational security",
+    "body": "We design and manufacture high-integrity hardware and software for critical mission environments. Our solutions ensure data integrity and situational awareness across multiple domains."
+  },
+  "capabilities": [
+    {
+      "slug": "sensing",
+      "name": "Multi-spectral Sensing",
+      "domain": "Multi-domain",
+      "summary": "High-fidelity detection systems designed for persistent surveillance in contested environments.",
+      "description": "Our sensor suites integrate electromagnetic and optical data to provide comprehensive situational awareness. These systems are engineered to operate under extreme thermal and kinetic conditions. We focus on reducing false-alarm rates through advanced signal processing.",
+      "features": [
+        {
+          "title": "Signal processing",
+          "text": "Real-time data filtering reduces noise in high-interference zones."
+        },
+        {
+          "title": "Thermal resilience",
+          "text": "Hardware maintains calibration across wide temperature gradients."
+        },
+        {
+          "title": "Modular architecture",
+          "text": "Sensor heads can be swapped based on mission profiles."
+        },
+        {
+          "title": "Low-latency output",
+          "text": "Direct data feeds ensure immediate operator response."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Detection range",
+          "value": "120 km"
+        },
+        {
+          "label": "Operating temperature",
+          "value": "-40 to +70°C"
+        },
+        {
+          "label": "Update rate",
+          "value": "50 Hz"
+        },
+        {
+          "label": "Power consumption",
+          "value": "45 W"
+        },
+        {
+          "label": "Weight",
+          "value": "2.4 kg"
+        }
+      ]
+    },
+    {
+      "slug": "autonomy",
+      "name": "Autonomous Navigation",
+      "domain": "Air",
+      "summary": "Reliable guidance and control systems for unmanned platforms.",
+      "description": "We develop flight control logic and navigation algorithms for autonomous aerial vehicles. Our systems prioritise predictable behaviour in GPS-denied environments. We ensure all autonomous routines comply with strict safety protocols.",
+      "features": [
+        {
+          "title": "Inertial navigation",
+          "text": "Maintains positional accuracy without external satellite signals."
+        },
+        {
+          "title": "Obstacle avoidance",
+          "text": "Real-time spatial mapping prevents collisions in complex terrain."
+        },
+        {
+          "title": "Edge computing",
+          "text": "On-board processing minimises reliance on ground links."
+        },
+        {
+          "title": "Fail-safe logic",
+          "text": "Automated recovery protocols activate upon system fault detection."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Processing latency",
+          "value": "< 5 ms"
+        },
+        {
+          "label": "Positioning error",
+          "value": "< 0.5 m"
+        },
+        {
+          "label": "Navigation update rate",
+          "value": "200 Hz"
+        },
+        {
+          "label": "Interface standard",
+          "value": "MIL-STD-1553"
+        },
+        {
+          "label": "Input voltage",
+          "value": "28 VDC"
+        }
+      ]
+    },
+    {
+      "slug": "secure-comms",
+      "name": "Secure Communications",
+      "domain": "Land",
+      "summary": "Resilient data links for tactical command and control.",
+      "description": "Our communication systems provide encrypted, low-probability-of-intercept links for ground forces. We focus on maintaining connectivity in electromagnetically dense environments. The hardware is ruggedised for deployment in field conditions.",
+      "features": [
+        {
+          "title": "AES-256 encryption",
+          "text": "Hardware-level encryption secures all transmitted data packets."
+        },
+        {
+          "title": "Frequency hopping",
+          "text": "Rapid channel switching mitigates electronic jamming attempts."
+        },
+        {
+          "title": "Mesh networking",
+          "text": "Nodes automatically establish links to extend range."
+        },
+        {
+          "title": "Compact form factor",
+          "text": "Designed for integration into existing tactical radios."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Encryption standard",
+          "value": "AES-256"
+        },
+        {
+          "label": "Data throughput",
+          "value": "2 Mbps"
+        },
+        {
+          "label": "Operating band",
+          "value": "30-88 MHz"
+        },
+        {
+          "label": "Ingress protection",
+          "value": "IP67"
+        },
+        {
+          "label": "Latency",
+          "value": "< 20 ms"
+        }
+      ]
+    },
+    {
+      "slug": "space",
+      "name": "Orbital Infrastructure",
+      "domain": "Space",
+      "summary": "Specialised components for small satellite constellations.",
+      "description": "We manufacture high-reliability subsystems for Low Earth Orbit (LEO) missions. Our engineering focuses on radiation hardening and thermal management in vacuum. We support the growing demand for secure orbital data relays.",
+      "features": [
+        {
+          "title": "Radiation hardening",
+          "text": "Components are tested against total ionizing dose effects."
+        },
+        {
+          "title": "Thermal control",
+          "text": "Passive and active heat dissipation systems integrated."
+        },
+        {
+          "title": "Compact bus",
+          "text": "Optimised for CubeSat and SmallSat architectures."
+        },
+        {
+          "title": "Telemetry modules",
+          "text": "Continuous health monitoring for long-duration missions."
+        }
+      ],
+      "specs": [
+        {
+          "label": "Radiation tolerance",
+          "value": "50 kRad"
+        },
+        {
+          "label": "Orbit type",
+          "value": "LEO"
+        },
+        {
+          "label": "Mass limit",
+          "value": "5 kg"
+        },
+        {
+          "label": "Power output",
+          "value": "15 W"
+        },
+        {
+          "label": "Communication link",
+          "value": "S-band"
+        }
+      ]
+    }
+  ],
+  "approach": [
+    {
+      "step": "01",
+      "title": "Requirement Analysis",
+      "text": "We define technical parameters alongside customer stakeholders."
+    },
+    {
+      "step": "02",
+      "title": "System Design",
+      "text": "Engineering teams develop high-fidelity digital models and prototypes."
+    },
+    {
+      "step": "03",
+      "title": "Rigorous Testing",
+      "text": "Environmental and security validation occurs in controlled laboratories."
+    },
+    {
+      "step": "04",
+      "title": "In-Service Support",
+      "text": "Continuous technical assistance and hardware updates follow deployment."
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-05-14",
+      "category": "Contract",
+      "title": "Northvane awarded maritime surveillance contract"
+    },
+    {
+      "date": "2026-07-22",
+      "category": "Technology",
+      "title": "New low-latency encryption module announced"
+    },
+    {
+      "date": "2026-09-05",
+      "category": "Company",
+      "title": "Expansion of Gothenburg engineering centre"
+    }
+  ],
+  "about": {
+    "heading": "Engineering reliability for sovereign security",
+    "body": [
+      "Northvane Defence Systems was established in 2009 to address the growing need for integrated, secure technology in the European defence sector. We operate from our headquarters in Lisbon, supported by specialist engineering hubs in Toulouse and Gothenburg.",
+      "Our multidisciplinary teams focus on the intersection of hardware reliability and software intelligence. By maintaining control over the entire design lifecycle, we ensure that our systems meet the stringent requirements of NATO and EU partners.",
+      "We prioritise long-term stability and technical precision over rapid, unverified iterations. This disciplined approach allows us to deliver mission-critical systems that function reliably in the most demanding operational theatres."
+    ],
+    "values": [
+      {
+        "title": "Integrity",
+        "text": "We maintain strict adherence to technical specifications."
+      },
+      {
+        "title": "Precision",
+        "text": "Engineering accuracy is fundamental to our design process."
+      },
+      {
+        "title": "Sovereignty",
+        "text": "We support European technological autonomy."
+      },
+      {
+        "title": "Resilience",
+        "text": "Our systems are built for extreme environments."
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2009",
+        "text": "Northvane founded in Lisbon."
+      },
+      {
+        "year": "2014",
+        "text": "Opening of Toulouse engineering centre."
+      },
+      {
+        "year": "2018",
+        "text": "Expansion into autonomous aerial systems."
+      },
+      {
+        "year": "2022",
+        "text": "Establishment of Gothenburg facility."
+      },
+      {
+        "year": "2026",
+        "text": "Deployment of next-generation sensing suite."
+      }
+    ]
+  },
+  "certifications": [
+    "AS9100D",
+    "ISO 9001:2015",
+    "ISO/IEC 27001",
+    "AQAP-2110",
+    "ISO 14001"
+  ],
+  "careersCta": {
+    "heading": "Join our engineering teams",
+    "body": "Explore technical roles in Lisbon, Toulouse, and Gothenburg."
+  },
+  "contact": {
+    "heading": "Contact our offices",
+    "body": "Reach out to our regional teams for technical enquiries.",
+    "offices": [
+      {
+        "city": "Lisbon",
+        "role": "Headquarters",
+        "address": "Rua de Engenharia 42, Lisbon"
+      },
+      {
+        "city": "Toulouse",
+        "role": "Engineering Centre",
+        "address": "Avenue de l'Aéronautique 108, Toulouse"
+      },
+      {
+        "city": "Gothenburg",
+        "role": "Engineering Centre",
+        "address": "Teknikgatan 15, Gothenburg"
+      }
+    ]
+  }
+}
